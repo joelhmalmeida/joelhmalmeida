@@ -1,7 +1,7 @@
-![MasterHead](https://www.freepik.com/free-vector/digital-technology-abstract-light-streaks-design_9508846.htm?query=code%20abstract%20banner?query=code%20abstract%20banner&collectionId=309&page=2&position=36&from_view=collections)
+![MasterHead](https://github.com/joelhmalmeida/joelhmalmeida/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Joel Almeida</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate Frontend and Outsystems Developer from Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/83190972/224507647-890cb88b-8fea-41bf-ad95-8ae3a05e4e4e.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelhmalmeida&label=Profile%20views&color=0e75b6&style=flat" alt="joelhmalmeida" /> </p>
